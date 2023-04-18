@@ -1,9 +1,7 @@
 // Import stylesheets
 import './style.css';
-
 // Write Javascript code!
 const appDiv = document.getElementById('app');
-
 const MOCK = {
   '[1876462913074500635, "Montgomery"]': 99,
   '[1876462917495297055, "Dothan"]': 106,
